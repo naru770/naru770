@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naru770&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/naru770/github-readme-stats)
 
 <!--
