@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naru770&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/naru770/github-readme-stats)
+[![naru770's GitHub stats](https://github-readme-stats.vercel.app/api?username=naru770)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **naru770/naru770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
