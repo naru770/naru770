@@ -1,5 +1,3 @@
-[![naru770's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naru770&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **naru770/naru770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
